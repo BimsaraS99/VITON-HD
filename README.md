@@ -1,4 +1,4 @@
-## Our Team's Follow-up Research
+## Our Team's Follow-up Research - Full Version by BimsaraS99
 
 **1. [NEW!] PromptDresser (https://github.com/rlawjdghek/PromptDresser) - Arxiv 24.12**<br>
 2. StableVITON (https://github.com/rlawjdghek/StableVITON) - CVPR 2024<br>
