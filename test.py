@@ -21,7 +21,7 @@ def get_opt():
     parser.add_argument('--load_width', type=int, default=768)
     parser.add_argument('--shuffle', action='store_true')
 
-    parser.add_argument('--dataset_dir', type=str, default='./datasets/')
+    parser.add_argument('--dataset_dir', type=str, default='openpose_gpu/main_inputs/')
     parser.add_argument('--dataset_mode', type=str, default='test')
     parser.add_argument('--dataset_list', type=str, default='test_pairs.txt')
     parser.add_argument('--checkpoint_dir', type=str, default='./checkpoints/')
